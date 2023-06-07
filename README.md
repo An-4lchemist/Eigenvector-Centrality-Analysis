@@ -1,5 +1,5 @@
 # Eigenvector-Centrality-Model
-Using QR factorisation to find the eigen vector centrality and hence the most vital node in the Helsinki City Bike Network
+Using QR factorization to find the eigen vector centrality and hence the most vital node in the Helsinki City Bike Network
 
 # Authors
 Shreya Mandi,
